@@ -12,8 +12,6 @@ Homography Estimation: Estimated a homography matrix to map the Penn logo’s co
 Inverse Warping for Logo Projection: By warping the points from each video frame to the logo space, inverse warping ensured that every pixel in the frame was correctly mapped to a pixel in the logo, preserving a seamless overlay without "holes."
 Automated Projection: Automated the process for each frame in the sequence, creating a continuous, perspective-accurate projection across the video.
 
-Run the project by executing project_logo.py to view the logo projected onto the football goal throughout the video.
-
 **Project 2: Augmented Reality with AprilTags**
 
 _Overview_:
@@ -27,4 +25,4 @@ Pose Estimation:
 - P3P and Procrustes Analysis: Refined pose estimation by calculating camera pose using the Perspective-Three-Point (P3P) approach, with Procrustes analysis to solve for accurate rotation and translation.
 3D Virtual Object Placement: With a precise 3D camera pose established, arbitrary objects could be augmented into the video, appearing fixed within the scene.
 
-To run, execute main.py to see virtual objects appear anchored within the video scene, utilizing real-world coordinates for natural placements.
+
