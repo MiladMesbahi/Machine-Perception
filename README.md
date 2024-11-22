@@ -1,5 +1,5 @@
 # Machine-Perception
-A collection of my Computer Vision Projects from CIS 5800
+A collection of my Computer Vision Projects
 
 **Project 1: Logo Projection with Homographies in Sports Footage**
 
